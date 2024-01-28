@@ -1,3 +1,4 @@
+#TOPSIS => technique for order performance by similarity to ideal solution
 import pandas as pd
 import numpy as np
 import csv
