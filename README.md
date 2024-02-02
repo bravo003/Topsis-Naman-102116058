@@ -10,7 +10,7 @@ This Python script is designed to implement the TOPSIS methodology for multi-cri
 
 ## Installation
 ```bash
-pip install Topsis-Naman-102103568
+pip install Topsis-Naman-102116058
 ```
 
 ## Usage
